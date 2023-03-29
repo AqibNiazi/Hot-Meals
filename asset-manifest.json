@@ -1,21 +1,16 @@
 {
   "files": {
-    "main.css": "/hot-meals/static/css/main.ead74abf.chunk.css",
-    "main.js": "/hot-meals/static/js/main.749c4a96.chunk.js",
-    "main.js.map": "/hot-meals/static/js/main.749c4a96.chunk.js.map",
-    "runtime-main.js": "/hot-meals/static/js/runtime-main.1665e098.js",
-    "runtime-main.js.map": "/hot-meals/static/js/runtime-main.1665e098.js.map",
-    "static/js/2.51dc0d69.chunk.js": "/hot-meals/static/js/2.51dc0d69.chunk.js",
-    "static/js/2.51dc0d69.chunk.js.map": "/hot-meals/static/js/2.51dc0d69.chunk.js.map",
+    "main.css": "/hot-meals/static/css/main.19d941f5.css",
+    "main.js": "/hot-meals/static/js/main.18bfa5f9.js",
+    "static/js/787.f73a2769.chunk.js": "/hot-meals/static/js/787.f73a2769.chunk.js",
+    "static/media/meals.jpg": "/hot-meals/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/hot-meals/index.html",
-    "static/css/main.ead74abf.chunk.css.map": "/hot-meals/static/css/main.ead74abf.chunk.css.map",
-    "static/js/2.51dc0d69.chunk.js.LICENSE.txt": "/hot-meals/static/js/2.51dc0d69.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/hot-meals/static/media/meals.2971f633.jpg"
+    "main.19d941f5.css.map": "/hot-meals/static/css/main.19d941f5.css.map",
+    "main.18bfa5f9.js.map": "/hot-meals/static/js/main.18bfa5f9.js.map",
+    "787.f73a2769.chunk.js.map": "/hot-meals/static/js/787.f73a2769.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1665e098.js",
-    "static/js/2.51dc0d69.chunk.js",
-    "static/css/main.ead74abf.chunk.css",
-    "static/js/main.749c4a96.chunk.js"
+    "static/css/main.19d941f5.css",
+    "static/js/main.18bfa5f9.js"
   ]
 }
