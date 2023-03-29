@@ -1,17 +1,20 @@
 {
-  "name": "react-complete-guide",
+  "name": "hot-meals",
+  "homepage": "https://AqibNiazi.github.io/hot-meals",
   "version": "0.1.0",
-  "homepage": "https://aqibniazi.github.io/hotMeals",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.6",
-    "@testing-library/react": "^11.2.2",
-    "@testing-library/user-event": "^12.5.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
     "gh-pages": "^5.0.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "moment-timezone": "^0.5.40",
+    "react": "^18.2.0",
+    "react-accessible-accordion": "^5.0.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-select-async-paginate": "^0.7.2",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "predeploy": "npm run build",
