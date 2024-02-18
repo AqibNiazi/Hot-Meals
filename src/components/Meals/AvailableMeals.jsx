@@ -29,7 +29,7 @@ const DUMMY_MEALS = [
     },
   ];
 const AvailableMeals = () => {
-    const mealsList=DUMMY_MEALS?.map((meals)=><MealItem key={meals.id} name={meals.name} description={meals.description} price={meals.price}/>)
+    const mealsList=DUMMY_MEALS?.map((meals)=><MealItem key={meals.id} id={meals.id} name={meals.name} description={meals.description} price={meals.price}/>)
   return (
     <Card>
     <ul className={styles.meals}>
